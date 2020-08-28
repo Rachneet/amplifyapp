@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"flaskreactapp144a9d122": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
